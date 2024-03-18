@@ -2,7 +2,7 @@
 Programação Estruturada
 18/03
 AC_3
-
+PACO MOREIRA SENRA GUIMARÃES
 '''
 
 def determina_tipo_triangulo(a, b, c):
